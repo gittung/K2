@@ -1,21 +1,37 @@
 #EXTM3U
-#EXTINF:-1,FPT Event 1
+#EXTINF:-1,FPT Su kien 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1,FPT Event 2
+#EXTINF:-1,FPT Su kien 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1,FPT Event 3
+#EXTINF:-1,FPT Su kien 3
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1,FPT Event 4
+#EXTINF:-1,FPT Su kien 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1,FPT Event 5
+#EXTINF:-1,FPT Su kien 5
 https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1,FPT Event 6
+#EXTINF:-1,FPT Su kien 6
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1,FPT Event 7
+#EXTINF:-1,FPT Su kien 7
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1,FPT Event 8
+#EXTINF:-1,FPT Su kien 8
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
-#EXTINF:-1,FPT Event 9
+#EXTINF:-1,FPT Su kien 9
 https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
-#EXTINF:-1,FPT Event 10
-https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 01
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 02
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 03
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 04
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 05
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 06
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 07
+https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 08
+https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 09
+https://live.fptplay53.net/live/media/event-09/hls_avc_v6/index.m3u8
