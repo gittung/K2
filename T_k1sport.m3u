@@ -17,6 +17,10 @@ https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
 #EXTINF:-1,FPT Su kien 9
 https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Su kien 10
+https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Su kien 11
+https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 #EXTINF:-1,FPT Event 01
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1,FPT Event 02
