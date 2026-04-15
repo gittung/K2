@@ -39,3 +39,7 @@ https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
 #EXTINF:-1,FPT Event 09
 https://live.fptplay53.net/live/media/event-09/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 10
+https://live.fptplay53.net/live/media/event-10/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 11
+https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
