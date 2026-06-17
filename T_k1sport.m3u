@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, WC1
+http://77.90.60.172:55555/8
+#EXTINF:-1, WC2
+http://77.90.60.172:55555/6
+#EXTINF:-1, WC3
+http://77.90.60.172:55555/4
+#EXTINF:-1, WC4
+http://77.90.60.172:55555/2
 #EXTINF:-1,FPT Su kien 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1,FPT Su kien 2
