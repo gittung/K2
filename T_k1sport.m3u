@@ -3,6 +3,8 @@
 https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1,FPT Event 1 4K
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:-1,FPT Event 2 4K
+https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8?sign=1785573965-NDI5MjY2NQ-0-35c760479713ce05420a01e3b6068984
 #EXTINF:-1,FPT Event 3 4K
 https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8?sign=1785496828-NDI5MjY2NQ-0-600a9637475115ef47e06c9b1050b064
 #EXTINF:-1,FPT Su kien 1
