@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,VTVgo 1
+https://events.vtvdigital.vn/livestream/thethao_01-1080p.m3u8
+#EXTINF:-1,VTVgo 2
+https://events.vtvdigital.vn/livestream/thethao_02-1080p.m3u8
+#EXTINF:-1,VTVgo 3
+https://events.vtvdigital.vn/livestream/thethao_03-1080p.m3u8
+#EXTINF:-1,VTVgo 4
+https://events.vtvdigital.vn/livestream/thethao_04-1080p.m3u8
+#EXTINF:-1,VTVgo 5
+https://events.vtvdigital.vn/livestream/thethao_05-1080p.m3u8
+#EXTINF:-1,VTVgo 6
+https://events.vtvdigital.vn/livestream/thethao_06-1080p.m3u8
+#EXTINF:-1,VTVgo 7
+https://events.vtvdigital.vn/livestream/thethao_07-1080p.m3u8
+#EXTINF:-1,VTVgo 8
+https://events.vtvdigital.vn/livestream/thethao_08-1080p.m3u8
+#EXTINF:-1,VTVgo 9
+https://events.vtvdigital.vn/livestream/thethao_09-1080p.m3u8
+#EXTINF:-1,VTVgo 10
+https://events.vtvdigital.vn/livestream/thethao_10-1080p.m3u8
 #EXTINF:-1,FPT Su kien 1 4K
 https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1,FPT Event 1 4K
